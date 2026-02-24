@@ -3,7 +3,7 @@ from chembl_webresource_client.new_client import new_client
 
 
 smiles_with_chembl_id = pd.read_csv("data/extended_LAGOM_with_chembl36_ids.csv")
-df = pd.read_csv("enriched_reactions_active.csv")
+df = pd.read_csv("drug-metabolite_pairs_active.csv")
 
 df_unique = df[["drug", "metabolite"]].drop_duplicates()
 
