@@ -1,6 +1,6 @@
 # Systematic Computational Identification of Active Drug Metabolites Across the Human Proteome
 
-This repository contains the code used to generate the results reported in the article Larsson et al. (2026) "Systematic Computational Identification of Active Drug Metabolites Across the Human Proteome," currently available on the [ChemRxiv]().
+This repository contains the code used to generate the results reported in the article Larsson et al. (2026) "Systematic Computational Identification of Active Drug Metabolites Across the Human Proteome," currently available on the [ChemRxiv](https://chemrxiv.org/doi/10.26434/chemrxiv.15000361).
 
 Here we conduct a systematic computational analysis to identify drug-metabolite pairs in which the corresponding metabolites retain or increase in bioactivity relative to their parent drugs. 
 As part of this work, we used previously curated datasets of drug-metabolite pairs observed in humans ([LAGOM](https://github.com/tsofiac/LAGOM) and [GLORYx](https://github.com/christinadebruynkops/GLORYx))
