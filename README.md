@@ -1,4 +1,4 @@
-# Systematic Computational Identification of Active Drug Metabolites Across the Human Proteome
+# Computational Identification of Active Drug Metabolites for Human Protein Targets
 
 This repository contains the code used to generate the results reported in the article Larsson et al. (2026) "Computational Identification of Active Drug Metabolites for Human Protein Targets", published open-access in [Molecular Pharmaceutics](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.6c00258).
 
